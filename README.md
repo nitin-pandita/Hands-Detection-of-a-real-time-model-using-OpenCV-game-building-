@@ -35,6 +35,6 @@ Answer:  Yes, it will. But i will suggest run it in VS code, as myself have code
 
 ## Demo
 
-Insert gif or link to demo
+Demonistration 
 
 <img src="https://github.com/nitin-pandita/OpenCv-Rock-Paper-Scissor/blob/main/Resources/Screenshot%20(67).png">
