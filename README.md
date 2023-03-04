@@ -30,7 +30,7 @@ Answer :  No its not, it userfriendly project, using simple libraries
 
 #### Will it work on Ever IDE ?
 
-Answer:  Yes, it will. But i will suggest use in in VS code, as myself have coded inside Vs code
+Answer:  Yes, it will. But i will suggest run it in VS code, as myself have coded inside Vs code
 
 
 ## Demo
