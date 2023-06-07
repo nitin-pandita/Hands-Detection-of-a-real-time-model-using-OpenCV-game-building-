@@ -34,7 +34,7 @@ Answer:  Yes, it will. But i will suggest run it in VS code, as myself have code
 
 
 ## Demo
-
+<img src="https://github.com/nitin-pandita/Hands-Detection-of-a-real-time-model-using-OpenCV-game-building-/blob/main/Resources/Screenshot%20(55).png">
 Demonistration 
 
 <img src="https://github.com/nitin-pandita/OpenCv-Rock-Paper-Scissor/blob/main/Resources/Screenshot%20(67).png">
